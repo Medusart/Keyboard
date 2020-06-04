@@ -1,0 +1,10 @@
+{
+    "name":           "be.minaoumzil.keyboard",                              
+     "displayName":    "Keyboard",                        
+     "version":        "0.0.1",                         
+     "unity":          "2018.1",                        
+     "description":    "Supposed to help you",                         
+     "keywords":       ["Script","Tool","3D"],                       
+     "dependencies":{  },     
+     "relatedPackages":{  }
+}
